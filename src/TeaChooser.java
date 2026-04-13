@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TeaChooser {
 
-    // Метод для выбора чая на основе свойства
+
     public static String chooseTeaByProperty(String property) {
         if (property == null) {
             return "Свойство не указанно.";

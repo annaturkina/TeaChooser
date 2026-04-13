@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="untitled" options="--add-exports java.base/jdk.internal.classfile.impl=ALL-UNNAMED --add-exports java.base/jdk.internal.classfile.components=ALL-UNNAMED" />
+      <module name="TeaChooser" options="--add-exports java.base/jdk.internal.classfile.impl=ALL-UNNAMED --add-exports java.base/jdk.internal.classfile.components=ALL-UNNAMED" />
     </option>
   </component>
 </project>
